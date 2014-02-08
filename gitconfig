@@ -2,5 +2,5 @@
 name = b
 email = l@b.com
 [remote "origin"]
-	url = git@github.com:bitcoinfun/travisfun.git
+	url = git@github.com:bitcoinfun/nobloddymary.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
